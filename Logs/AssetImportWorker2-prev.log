@@ -1,0 +1,438 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.14f1 (eff2de9070d8) revision 15725278'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'tr' Physical Memory: 16216 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\UnityAll\2022.3.14f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/CanBe/Documents/UnityProjects/VRArtGallery/VR-Art-Gallery
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+61922
+Successfully changed project path to: C:/Users/CanBe/Documents/UnityProjects/VRArtGallery/VR-Art-Gallery
+C:/Users/CanBe/Documents/UnityProjects/VRArtGallery/VR-Art-Gallery
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [15552] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2252367620 [EditorId] 2252367620 [Version] 1048832 [Id] WindowsEditor(7,BCU) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [15552] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2252367620 [EditorId] 2252367620 [Version] 1048832 [Id] WindowsEditor(7,BCU) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
+Refreshing native plugins compatible for Editor in 31.59 ms, found 9 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.14f1 (eff2de9070d8)
+[Subsystems] Discovering subsystems at path D:/UnityAll/2022.3.14f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/CanBe/Documents/UnityProjects/VRArtGallery/VR-Art-Gallery/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 (ID=0x1f14)
+    Vendor:   NVIDIA
+    VRAM:     8031 MB
+    Driver:   30.0.15.1289
+Initialize mono
+Mono path[0] = 'D:/UnityAll/2022.3.14f1/Editor/Data/Managed'
+Mono path[1] = 'D:/UnityAll/2022.3.14f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/UnityAll/2022.3.14f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56888
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/UnityAll/2022.3.14f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/UnityAll/2022.3.14f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: D:/UnityAll/2022.3.14f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006068 seconds.
+- Loaded All Assemblies, in  0.430 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 256 ms
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.661 seconds
+Domain Reload Profiling: 1091ms
+	BeginReloadAssembly (130ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (44ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (63ms)
+	LoadAllAssembliesAndSetupDomain (178ms)
+		LoadAssemblies (129ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (175ms)
+			TypeCache.Refresh (174ms)
+				TypeCache.ScanAssembly (158ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (662ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (587ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (385ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (127ms)
+			ProcessInitializeOnLoadMethodAttributes (68ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.880 seconds
+Refreshing native plugins compatible for Editor in 14.09 ms, found 9 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  0.846 seconds
+Domain Reload Profiling: 1722ms
+	BeginReloadAssembly (161ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (22ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (47ms)
+	LoadAllAssembliesAndSetupDomain (614ms)
+		LoadAssemblies (357ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (349ms)
+			TypeCache.Refresh (290ms)
+				TypeCache.ScanAssembly (268ms)
+			ScanForSourceGeneratedMonoScriptInfo (42ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (846ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (632ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (27ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (102ms)
+			ProcessInitializeOnLoadAttributes (385ms)
+			ProcessInitializeOnLoadMethodAttributes (109ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 14.19 ms, found 9 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6256 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 127 unused Assets / (2.2 MB). Loaded Objects now: 6700.
+Memory consumption went from 231.2 MB to 229.0 MB.
+Total: 4.658100 ms (FindLiveObjects: 0.459900 ms CreateObjectMapping: 0.446200 ms MarkObjects: 3.186900 ms  DeleteObjects: 0.564400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: d54d2f2da18e7612c182cf67624b6b12 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/MenuUtils.cs: ef61e56f05605c149332b0b451f694ed -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Switching render pipeline 00000000000000000000000000000000 -> 730120d7f59edef4b9a3ba2238c7c3a1
+Refreshing native plugins compatible for Editor in 14.92 ms, found 9 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 18 unused Assets / (2.1 MB). Loaded Objects now: 6705.
+Memory consumption went from 110.1 MB to 107.9 MB.
+Total: 5.053700 ms (FindLiveObjects: 0.487700 ms CreateObjectMapping: 0.512200 ms MarkObjects: 3.528100 ms  DeleteObjects: 0.524900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: d54d2f2da18e7612c182cf67624b6b12 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/MenuUtils.cs: ef61e56f05605c149332b0b451f694ed -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 639244.083498 seconds.
+  path: Assets/AK Studio Art/Art Gallery Vol.5/Settings/URP/Global Volume Profile.asset
+  artifactKey: Guid(f43c9570dbfe91448bb6d25305cca576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Studio Art/Art Gallery Vol.5/Settings/URP/Global Volume Profile.asset using Guid(f43c9570dbfe91448bb6d25305cca576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b71f9e2a6a76a299a9b80bedbcbd005e') in 0.020458 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 21.940317 seconds.
+  path: Assets/AK Studio Art/Art Gallery Vol.5/Materials/Abstract Elephant.mat
+  artifactKey: Guid(555383a35abfa7f4585a1e909efe79cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Studio Art/Art Gallery Vol.5/Materials/Abstract Elephant.mat using Guid(555383a35abfa7f4585a1e909efe79cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '124f1f3e0a23cfe1eab79f41ab694457') in 0.861229 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Small 5.mat
+  artifactKey: Guid(3bb46071d4ce18447b32cd2d1d83aee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Small 5.mat using Guid(3bb46071d4ce18447b32cd2d1d83aee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e469d828eabf5a01df78bd8e4febe01') in 0.192747 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Small 13.mat
+  artifactKey: Guid(3faf28dcb7979b74f822b87601a91937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Small 13.mat using Guid(3faf28dcb7979b74f822b87601a91937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8596ca5f526fc486687276da1969d8d0') in 0.133946 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.004337 seconds.
+  path: Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Big 1.mat
+  artifactKey: Guid(61f32dec19c308f4885de00b377de1a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Big 1.mat using Guid(61f32dec19c308f4885de00b377de1a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '653aa44546f0c99946aad0d37a43820a') in 0.072910 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/AK Studio Art/Art Gallery Vol.5/Materials/White 2.mat
+  artifactKey: Guid(289a3f1a998ecb44b90f24cfe76f6ccb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Studio Art/Art Gallery Vol.5/Materials/White 2.mat using Guid(289a3f1a998ecb44b90f24cfe76f6ccb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '562327adf8f5fbdfdd86d060539abd0c') in 0.047266 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000555 seconds.
+  path: Assets/AK Studio Art/Art Gallery Vol.5/Materials/Gray.mat
+  artifactKey: Guid(d6ad509166246a545b664af0373dfa50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Studio Art/Art Gallery Vol.5/Materials/Gray.mat using Guid(d6ad509166246a545b664af0373dfa50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1293e928141c84e909b3cf846f098acd') in 0.016267 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Big 2.mat
+  artifactKey: Guid(1488bee87b320734ba634e37a60a8c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Big 2.mat using Guid(1488bee87b320734ba634e37a60a8c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae03840a69382c757a9c8a173ec8f81a') in 0.086615 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.001580 seconds.
+  path: Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Big.mat
+  artifactKey: Guid(0264d74b933606648a4e3472a0409cb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Big.mat using Guid(0264d74b933606648a4e3472a0409cb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44f6ede5a69e22eaa0a28ae1136eb516') in 0.028938 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Big 10.mat
+  artifactKey: Guid(8a277ec62c94c3e41b2eb5760f8ef86a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Big 10.mat using Guid(8a277ec62c94c3e41b2eb5760f8ef86a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a255d9ac1ad67925ae28e9dde1f8b683') in 0.042895 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/AK Studio Art/Art Gallery Vol.5/Materials/Wood Floor.mat
+  artifactKey: Guid(ad3064361137b4b4688dd708c0382b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Studio Art/Art Gallery Vol.5/Materials/Wood Floor.mat using Guid(ad3064361137b4b4688dd708c0382b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9113bc4c0851697c50173dad72ea76ed') in 0.201944 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/AK Studio Art/Art Gallery Vol.5/Materials/Metal.mat
+  artifactKey: Guid(0a0b6525503ceb54f831b2ebdda1a038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Studio Art/Art Gallery Vol.5/Materials/Metal.mat using Guid(0a0b6525503ceb54f831b2ebdda1a038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ee5cb8a665c5bef42ada99d4a7de03d') in 0.048591 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Small 6.mat
+  artifactKey: Guid(9ded1514097e3b74392151789f812f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Small 6.mat using Guid(9ded1514097e3b74392151789f812f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '158abe4ab360eaa877efa160b8de412b') in 0.061466 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Small 11.mat
+  artifactKey: Guid(c865bb81315cddb44ab8c0ff7ca4f7ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Small 11.mat using Guid(c865bb81315cddb44ab8c0ff7ca4f7ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c33ad2b872df669885e77a5436be264') in 0.072789 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000619 seconds.
+  path: Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Small 2.mat
+  artifactKey: Guid(7a78eaeb799e7634693f82a4ead6434d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Small 2.mat using Guid(7a78eaeb799e7634693f82a4ead6434d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f899af54c67c6621aa5d58cac8fa498c') in 0.037260 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/AK Studio Art/Art Gallery Vol.5/Materials/Frame smal.mat
+  artifactKey: Guid(7c31d1ab4bef2f84992de9e496123d3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Studio Art/Art Gallery Vol.5/Materials/Frame smal.mat using Guid(7c31d1ab4bef2f84992de9e496123d3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '264221fdb03def46df7fd53fd499feb4') in 0.185062 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/AK Studio Art/Art Gallery Vol.5/Materials/The Thinker  Statue.mat
+  artifactKey: Guid(bbf876ee4a7b36d4bac07d6054f50997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Studio Art/Art Gallery Vol.5/Materials/The Thinker  Statue.mat using Guid(bbf876ee4a7b36d4bac07d6054f50997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0f6f0d11c7cacd01b6810e2b3a2fcba') in 0.139824 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Small 10.mat
+  artifactKey: Guid(eef83f013bf972a43b97b8de5e2065dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Small 10.mat using Guid(eef83f013bf972a43b97b8de5e2065dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1a949da40a951254ea1e2cbb7a2f535') in 0.064840 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 31.301133 seconds.
+  path: Assets/AK Studio Art/Art Gallery Vol.5/Materials/Abstract Elephant.mat
+  artifactKey: Guid(555383a35abfa7f4585a1e909efe79cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Studio Art/Art Gallery Vol.5/Materials/Abstract Elephant.mat using Guid(555383a35abfa7f4585a1e909efe79cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64b099ae25ccab60401fc79fa6cbaa2d') in 0.888966 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Small 5.mat
+  artifactKey: Guid(3bb46071d4ce18447b32cd2d1d83aee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Small 5.mat using Guid(3bb46071d4ce18447b32cd2d1d83aee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ad209818076ac9453987136bbeba741') in 0.488572 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Small.mat
+  artifactKey: Guid(55c7e0605e7be294b9670f619969d8ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Small.mat using Guid(55c7e0605e7be294b9670f619969d8ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef668c26bacd93a84db603b5343b7ab3') in 0.069802 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/AK Studio Art/Art Gallery Vol.5/Materials/Door.mat
+  artifactKey: Guid(8f44fc5f7190a3d48ae5d3ae6a5963ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Studio Art/Art Gallery Vol.5/Materials/Door.mat using Guid(8f44fc5f7190a3d48ae5d3ae6a5963ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca010fa9a3bcfa4dac0994d67ead3653') in 0.669497 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Small 6.mat
+  artifactKey: Guid(9ded1514097e3b74392151789f812f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Small 6.mat using Guid(9ded1514097e3b74392151789f812f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d10bdad7922e3449805b47da4bc0ad9') in 0.121756 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Small 9.mat
+  artifactKey: Guid(307ec6c8c27e0794c9461139583bd4e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Small 9.mat using Guid(307ec6c8c27e0794c9461139583bd4e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91e20c241b7e739264a07a0dd81722bf') in 0.057473 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Small 7.mat
+  artifactKey: Guid(282f18c5ad800234581885185eb312e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Small 7.mat using Guid(282f18c5ad800234581885185eb312e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7359a1a9ae5ce1ab324c7b87ff4da689') in 0.183284 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/AK Studio Art/Art Gallery Vol.5/Materials/The Thinker  Statue.mat
+  artifactKey: Guid(bbf876ee4a7b36d4bac07d6054f50997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Studio Art/Art Gallery Vol.5/Materials/The Thinker  Statue.mat using Guid(bbf876ee4a7b36d4bac07d6054f50997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ded0ea4e997cf2e6928f592d89c5fb1a') in 0.175367 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Small 10.mat
+  artifactKey: Guid(eef83f013bf972a43b97b8de5e2065dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Studio Art/Art Gallery Vol.5/Materials/Picture Small 10.mat using Guid(eef83f013bf972a43b97b8de5e2065dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35269d12b7a662306ccaf98c86bc6b04') in 0.074571 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
